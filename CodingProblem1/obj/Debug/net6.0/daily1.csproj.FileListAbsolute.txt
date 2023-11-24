@@ -1,0 +1,14 @@
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\C#\Zadanka\daily1\daily1\daily1\bin\Debug\net6.0\daily1.exe
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\C#\Zadanka\daily1\daily1\daily1\bin\Debug\net6.0\daily1.deps.json
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\C#\Zadanka\daily1\daily1\daily1\bin\Debug\net6.0\daily1.runtimeconfig.json
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\C#\Zadanka\daily1\daily1\daily1\bin\Debug\net6.0\daily1.dll
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\C#\Zadanka\daily1\daily1\daily1\bin\Debug\net6.0\daily1.pdb
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\C#\Zadanka\daily1\daily1\daily1\obj\Debug\net6.0\daily1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\C#\Zadanka\daily1\daily1\daily1\obj\Debug\net6.0\daily1.AssemblyInfoInputs.cache
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\C#\Zadanka\daily1\daily1\daily1\obj\Debug\net6.0\daily1.AssemblyInfo.cs
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\C#\Zadanka\daily1\daily1\daily1\obj\Debug\net6.0\daily1.csproj.CoreCompileInputs.cache
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\C#\Zadanka\daily1\daily1\daily1\obj\Debug\net6.0\daily1.dll
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\C#\Zadanka\daily1\daily1\daily1\obj\Debug\net6.0\refint\daily1.dll
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\C#\Zadanka\daily1\daily1\daily1\obj\Debug\net6.0\daily1.pdb
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\C#\Zadanka\daily1\daily1\daily1\obj\Debug\net6.0\daily1.genruntimeconfig.cache
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\C#\Zadanka\daily1\daily1\daily1\obj\Debug\net6.0\ref\daily1.dll

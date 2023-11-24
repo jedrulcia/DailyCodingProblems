@@ -1,0 +1,14 @@
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem9\CodingProblem9\bin\Debug\net6.0\CodingProblem9.exe
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem9\CodingProblem9\bin\Debug\net6.0\CodingProblem9.deps.json
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem9\CodingProblem9\bin\Debug\net6.0\CodingProblem9.runtimeconfig.json
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem9\CodingProblem9\bin\Debug\net6.0\CodingProblem9.dll
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem9\CodingProblem9\bin\Debug\net6.0\CodingProblem9.pdb
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem9\CodingProblem9\obj\Debug\net6.0\CodingProblem9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem9\CodingProblem9\obj\Debug\net6.0\CodingProblem9.AssemblyInfoInputs.cache
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem9\CodingProblem9\obj\Debug\net6.0\CodingProblem9.AssemblyInfo.cs
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem9\CodingProblem9\obj\Debug\net6.0\CodingProblem9.csproj.CoreCompileInputs.cache
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem9\CodingProblem9\obj\Debug\net6.0\CodingProblem9.dll
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem9\CodingProblem9\obj\Debug\net6.0\refint\CodingProblem9.dll
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem9\CodingProblem9\obj\Debug\net6.0\CodingProblem9.pdb
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem9\CodingProblem9\obj\Debug\net6.0\CodingProblem9.genruntimeconfig.cache
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem9\CodingProblem9\obj\Debug\net6.0\ref\CodingProblem9.dll

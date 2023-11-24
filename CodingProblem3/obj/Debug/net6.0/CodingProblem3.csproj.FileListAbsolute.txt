@@ -1,0 +1,14 @@
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem3\CodingProblem3\bin\Debug\net6.0\CodingProblem3.exe
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem3\CodingProblem3\bin\Debug\net6.0\CodingProblem3.deps.json
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem3\CodingProblem3\bin\Debug\net6.0\CodingProblem3.runtimeconfig.json
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem3\CodingProblem3\bin\Debug\net6.0\CodingProblem3.dll
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem3\CodingProblem3\bin\Debug\net6.0\CodingProblem3.pdb
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem3\CodingProblem3\obj\Debug\net6.0\CodingProblem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem3\CodingProblem3\obj\Debug\net6.0\CodingProblem3.AssemblyInfoInputs.cache
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem3\CodingProblem3\obj\Debug\net6.0\CodingProblem3.AssemblyInfo.cs
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem3\CodingProblem3\obj\Debug\net6.0\CodingProblem3.csproj.CoreCompileInputs.cache
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem3\CodingProblem3\obj\Debug\net6.0\CodingProblem3.dll
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem3\CodingProblem3\obj\Debug\net6.0\refint\CodingProblem3.dll
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem3\CodingProblem3\obj\Debug\net6.0\CodingProblem3.pdb
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem3\CodingProblem3\obj\Debug\net6.0\CodingProblem3.genruntimeconfig.cache
+C:\Users\Jędrzej\Desktop\Jedrzej\Programowanko\github\CodingProblem3\CodingProblem3\obj\Debug\net6.0\ref\CodingProblem3.dll

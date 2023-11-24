@@ -1,0 +1,14 @@
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\CodingProblem15\CodingProblem15\bin\Debug\net6.0\CodingProblem15.exe
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\CodingProblem15\CodingProblem15\bin\Debug\net6.0\CodingProblem15.deps.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\CodingProblem15\CodingProblem15\bin\Debug\net6.0\CodingProblem15.runtimeconfig.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\CodingProblem15\CodingProblem15\bin\Debug\net6.0\CodingProblem15.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\CodingProblem15\CodingProblem15\bin\Debug\net6.0\CodingProblem15.pdb
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\CodingProblem15\CodingProblem15\obj\Debug\net6.0\CodingProblem15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\CodingProblem15\CodingProblem15\obj\Debug\net6.0\CodingProblem15.AssemblyInfoInputs.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\CodingProblem15\CodingProblem15\obj\Debug\net6.0\CodingProblem15.AssemblyInfo.cs
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\CodingProblem15\CodingProblem15\obj\Debug\net6.0\CodingProblem15.csproj.CoreCompileInputs.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\CodingProblem15\CodingProblem15\obj\Debug\net6.0\CodingProblem15.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\CodingProblem15\CodingProblem15\obj\Debug\net6.0\refint\CodingProblem15.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\CodingProblem15\CodingProblem15\obj\Debug\net6.0\CodingProblem15.pdb
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\CodingProblem15\CodingProblem15\obj\Debug\net6.0\CodingProblem15.genruntimeconfig.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\CodingProblem15\CodingProblem15\obj\Debug\net6.0\ref\CodingProblem15.dll
