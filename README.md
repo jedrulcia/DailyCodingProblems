@@ -1,5 +1,5 @@
 #DailyCodingProblems
-Repository with daily coding problems, to exercise on my programming skills
+Repository with daily coding problems, to exercise on programming skills
 
 CodingProblem1:
 Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
