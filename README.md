@@ -1,10 +1,10 @@
-# DailyCodingProblems
+#DailyCodingProblems
 Repository with daily coding problems, to exercise on my programming skills
 
-#CodingProblem1:
+CodingProblem1:
 Given a list of numbers and a number k, return whether any two numbers from the list add up to k.
 
-#CodingProblem2:
+CodingProblem2:
 Given an array of integers, return a new array such that each element at index i of the new array is the product of all the numbers in the original array except the one at i.
 
 CodingProblem3:
@@ -48,3 +48,6 @@ Suppose you have a multiplication table that is N by N. That is, a 2D array wher
 
 CodingProblem16:
 You are given an N by M 2D matrix of lowercase letters. Determine the minimum number of columns that can be removed to ensure that each row is ordered from top to bottom lexicographically. That is, the letter at each column is lexicographically later as you go down each row. It does not matter whether each row itself is ordered lexicographically.
+
+CodingProblem17:
+Given a list of possibly overlapping intervals, return a new list of intervals where all overlapping intervals have been merged.
