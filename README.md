@@ -1,4 +1,4 @@
-#DailyCodingProblems
+#DailyCodingProblems (C#)
 Repository with daily coding problems, to exercise on programming skills
 
 CodingProblem1:
