@@ -1,4 +1,4 @@
-#DailyCodingProblems
+#DailyCodingProblems (C#)
 Repository with daily coding problems, to exercise on programming skills
 
 CodingProblem1:
@@ -51,9 +51,6 @@ You are given an N by M 2D matrix of lowercase letters. Determine the minimum nu
 
 CodingProblem17:
 Given a list of possibly overlapping intervals, return a new list of intervals where all overlapping intervals have been merged.
-<<<<<<< HEAD
 
 CodingProblem18:
 Given an array of integers, write a function to determine whether the array could become non-decreasing by modifying at most 1 element.
-=======
->>>>>>> fbec0e63a2e10cf2a77eb752e857198387762858
