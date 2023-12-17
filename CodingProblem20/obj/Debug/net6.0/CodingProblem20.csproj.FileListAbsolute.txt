@@ -1,0 +1,15 @@
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\bin\Debug\net6.0\CodingProblem20.exe
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\bin\Debug\net6.0\CodingProblem20.deps.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\bin\Debug\net6.0\CodingProblem20.runtimeconfig.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\bin\Debug\net6.0\CodingProblem20.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\bin\Debug\net6.0\CodingProblem20.pdb
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\obj\Debug\net6.0\CodingProblem20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\obj\Debug\net6.0\CodingProblem20.AssemblyInfoInputs.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\obj\Debug\net6.0\CodingProblem20.AssemblyInfo.cs
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\obj\Debug\net6.0\CodingProblem20.csproj.CoreCompileInputs.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\obj\Debug\net6.0\CodingProblem20.sourcelink.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\obj\Debug\net6.0\CodingProblem20.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\obj\Debug\net6.0\refint\CodingProblem20.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\obj\Debug\net6.0\CodingProblem20.pdb
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\obj\Debug\net6.0\CodingProblem20.genruntimeconfig.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem20\obj\Debug\net6.0\ref\CodingProblem20.dll
