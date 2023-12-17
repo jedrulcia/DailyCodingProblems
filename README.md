@@ -57,3 +57,6 @@ Given an array of integers, write a function to determine whether the array coul
 
 CodingProblem19:
 Given the root of a binary tree, return a deepest node. 
+
+CodingProblem20:
+Given an unsorted array of integers, find the length of the longest consecutive elements sequence.
