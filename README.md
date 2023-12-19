@@ -63,3 +63,6 @@ Given an unsorted array of integers, find the length of the longest consecutive 
 
 CodingProblem21:
 You are in an infinite 2D grid where you can move in any of the 8 directions. You are given a sequence of points and the order in which you need to cover the points. Give the minimum number of steps in which you can achieve it. You start from the first point.
+
+CodingProblem22:
+Given an even number (greater than 2), return two prime numbers whose sum will be equal to the given number. If there are more than one solution possible, return the lexicographically smaller solution.
