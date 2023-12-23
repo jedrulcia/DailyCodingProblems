@@ -66,3 +66,6 @@ You are in an infinite 2D grid where you can move in any of the 8 directions. Yo
 
 CodingProblem22:
 Given an even number (greater than 2), return two prime numbers whose sum will be equal to the given number. If there are more than one solution possible, return the lexicographically smaller solution.
+
+CodingProblem23:
+Given a list of integers and a number K, return which contiguous elements of the list sum to K.
