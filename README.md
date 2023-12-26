@@ -69,3 +69,6 @@ Given an even number (greater than 2), return two prime numbers whose sum will b
 
 CodingProblem23:
 Given a list of integers and a number K, return which contiguous elements of the list sum to K.
+
+CodingProblem24:
+Given an integer list where each number represents the number of hops you can make, determine whether you can reach to the last index starting at index 0.
