@@ -72,3 +72,9 @@ Given a list of integers and a number K, return which contiguous elements of the
 
 CodingProblem24:
 Given an integer list where each number represents the number of hops you can make, determine whether you can reach to the last index starting at index 0.
+
+CodingProblem25:
+Given a sorted list of integers, square the elements and give the output in sorted order.
+
+CodingProblem26:
+Given a string of words delimited by spaces, reverse the words in string. For example, given "hello world here", return "here world hello".
