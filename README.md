@@ -78,3 +78,6 @@ Given a sorted list of integers, square the elements and give the output in sort
 
 CodingProblem26:
 Given a string of words delimited by spaces, reverse the words in string. For example, given "hello world here", return "here world hello".
+
+CodingProblem27:
+Given a set of closed intervals, find the smallest set of numbers that covers all the intervals. If there are multiple smallest sets, return any of them.
