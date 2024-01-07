@@ -84,3 +84,6 @@ Given a set of closed intervals, find the smallest set of numbers that covers al
 
 CodingProblem28:
 Given a binary tree, return all paths from the root to leaves.
+
+CodingProblem29:
+Given a string which we can delete at most k, return whether you can make a palindrome.
