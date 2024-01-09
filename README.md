@@ -90,3 +90,6 @@ Given a string which we can delete at most k, return whether you can make a pali
 
 CodingProblem30:
 You are given a 2-d matrix where each cell represents number of coins in that cell. Assuming we start at matrix[0][0], and can only move right or down, find the maximum number of coins you can collect by the bottom right corner.
+
+CodingProblem31:
+Given a string, return whether it represents a number.
