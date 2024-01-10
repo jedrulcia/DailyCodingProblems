@@ -93,3 +93,6 @@ You are given a 2-d matrix where each cell represents number of coins in that ce
 
 CodingProblem31:
 Given a string, return whether it represents a number.
+
+CodingProblem32:
+You have n fair coins and you flip them all at the same time. Any that come up tails you set aside. The ones that come up heads you flip again. How many rounds do you expect to play before only one coin remains?
