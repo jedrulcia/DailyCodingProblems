@@ -96,3 +96,6 @@ Given a string, return whether it represents a number.
 
 CodingProblem32:
 You have n fair coins and you flip them all at the same time. Any that come up tails you set aside. The ones that come up heads you flip again. How many rounds do you expect to play before only one coin remains?
+
+CodingProblem33:
+Given the root of a binary search tree, and a target K, return two nodes in the tree whose sum equals K.
