@@ -99,3 +99,6 @@ You have n fair coins and you flip them all at the same time. Any that come up t
 
 CodingProblem33:
 Given the root of a binary search tree, and a target K, return two nodes in the tree whose sum equals K.
+
+CodingProblem34:
+Write a function that rotates a list by k elements. For example, [1, 2, 3, 4, 5, 6] rotated by two becomes [3, 4, 5, 6, 1, 2]. Try solving this without creating a copy of the list. How many swap or move operations do you need?
