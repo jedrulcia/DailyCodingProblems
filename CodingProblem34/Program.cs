@@ -3,7 +3,7 @@
     static void Main()
     {
         int[] tab = { 1, 2, 3, 4, 5, 6 };
-        int k = 2;
+        int k = 5;
         tab = ReverseElements(tab, k);
         Array.ForEach(tab, Console.Write);
     }

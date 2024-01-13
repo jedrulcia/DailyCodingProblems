@@ -102,3 +102,6 @@ Given the root of a binary search tree, and a target K, return two nodes in the 
 
 CodingProblem34:
 Write a function that rotates a list by k elements. For example, [1, 2, 3, 4, 5, 6] rotated by two becomes [3, 4, 5, 6, 1, 2]. Try solving this without creating a copy of the list. How many swap or move operations do you need?
+
+CodingProblem35:
+Let's represent an integer in a linked list format by having each node represent a digit in the number. The nodes make up the number in reversed order.
