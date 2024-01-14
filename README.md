@@ -105,3 +105,6 @@ Write a function that rotates a list by k elements. For example, [1, 2, 3, 4, 5,
 
 CodingProblem35:
 Let's represent an integer in a linked list format by having each node represent a digit in the number. The nodes make up the number in reversed order.
+
+CodingProblem36:
+Write a function that prints out all the steps necessary to complete the Tower of Hanoi. 
