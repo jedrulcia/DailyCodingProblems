@@ -1,0 +1,15 @@
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\bin\Debug\net6.0\CodingProblem38.exe
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\bin\Debug\net6.0\CodingProblem38.deps.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\bin\Debug\net6.0\CodingProblem38.runtimeconfig.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\bin\Debug\net6.0\CodingProblem38.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\bin\Debug\net6.0\CodingProblem38.pdb
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\obj\Debug\net6.0\CodingProblem38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\obj\Debug\net6.0\CodingProblem38.AssemblyInfoInputs.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\obj\Debug\net6.0\CodingProblem38.AssemblyInfo.cs
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\obj\Debug\net6.0\CodingProblem38.csproj.CoreCompileInputs.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\obj\Debug\net6.0\CodingProblem38.sourcelink.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\obj\Debug\net6.0\CodingProblem38.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\obj\Debug\net6.0\refint\CodingProblem38.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\obj\Debug\net6.0\CodingProblem38.pdb
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\obj\Debug\net6.0\CodingProblem38.genruntimeconfig.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem38\obj\Debug\net6.0\ref\CodingProblem38.dll

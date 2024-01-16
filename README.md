@@ -111,3 +111,6 @@ Write a function that prints out all the steps necessary to complete the Tower o
 
 CodingProblem37:
 Given a real number n, find the square root of n. For example, given n = 9, return 3.
+
+CodingProblem38:
+Given an array of numbers representing the stock prices of a company in chronological order and an integer k, return the maximum profit you can make from k buys and sells. You must buy the stock before you can sell it, and you must sell the stock before you can buy it again.
