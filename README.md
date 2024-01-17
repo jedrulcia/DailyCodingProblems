@@ -114,3 +114,6 @@ Given a real number n, find the square root of n. For example, given n = 9, retu
 
 CodingProblem38:
 Given an array of numbers representing the stock prices of a company in chronological order and an integer k, return the maximum profit you can make from k buys and sells. You must buy the stock before you can sell it, and you must sell the stock before you can buy it again.
+
+CodingProblem39:
+Create a function that creates a pattern as a 2D array for a given number.
