@@ -126,3 +126,6 @@ range(lower, upper): returns the number of hits that occurred between timestamps
 
 CodingProblem41:
 Given a binary tree, find a minimum path sum from root to a leaf.
+
+CodingProblem42:
+Given an N by M matrix consisting only of 1's and 0's, find the largest rectangle containing only 1's and return its area.
