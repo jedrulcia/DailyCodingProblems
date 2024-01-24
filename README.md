@@ -129,3 +129,6 @@ Given a binary tree, find a minimum path sum from root to a leaf.
 
 CodingProblem42:
 Given an N by M matrix consisting only of 1's and 0's, find the largest rectangle containing only 1's and return its area.
+
+CodingProblem43:
+Find the minimum number of coins required to make n cents.
