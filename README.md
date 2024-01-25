@@ -132,3 +132,6 @@ Given an N by M matrix consisting only of 1's and 0's, find the largest rectangl
 
 CodingProblem43:
 Find the minimum number of coins required to make n cents.
+
+CodingProblem44:
+Given an iterator with methods next() and hasNext(), create a wrapper iterator, PeekableInterface, which also implements peek(). peek shows the next element that would be returned on next().
