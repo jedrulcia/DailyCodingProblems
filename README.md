@@ -135,3 +135,6 @@ Find the minimum number of coins required to make n cents.
 
 CodingProblem44:
 Given an iterator with methods next() and hasNext(), create a wrapper iterator, PeekableInterface, which also implements peek(). peek shows the next element that would be returned on next().
+
+CodingProblem45:
+Given an array of numbers and an index i, return the index of the nearest larger number of the number at index i, where distance is measured in array indices.
