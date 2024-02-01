@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "sQnkFoPJLQz3F6j3OpDVqVShT+j6RWUWOPfh4pzKvPTeBXe9Wcc0LMPsb1ANKdSbBctH3lshafjA+B2iAVQigw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jedrulcia\\Desktop\\Jedrzej\\Programowanko\\github\\DailyCodingProblems\\CodingProblem46\\CodingProblem46.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jedrulcia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Jedrulcia\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Jedrulcia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Jedrulcia\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\bin\Debug\net6.0\CodingProblem46.exe
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\bin\Debug\net6.0\CodingProblem46.deps.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\bin\Debug\net6.0\CodingProblem46.runtimeconfig.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\bin\Debug\net6.0\CodingProblem46.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\bin\Debug\net6.0\CodingProblem46.pdb
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\obj\Debug\net6.0\CodingProblem46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\obj\Debug\net6.0\CodingProblem46.AssemblyInfoInputs.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\obj\Debug\net6.0\CodingProblem46.AssemblyInfo.cs
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\obj\Debug\net6.0\CodingProblem46.csproj.CoreCompileInputs.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\obj\Debug\net6.0\CodingProblem46.sourcelink.json
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\obj\Debug\net6.0\CodingProblem46.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\obj\Debug\net6.0\refint\CodingProblem46.dll
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\obj\Debug\net6.0\CodingProblem46.pdb
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\obj\Debug\net6.0\CodingProblem46.genruntimeconfig.cache
+C:\Users\Jedrulcia\Desktop\Jedrzej\Programowanko\github\DailyCodingProblems\CodingProblem46\obj\Debug\net6.0\ref\CodingProblem46.dll

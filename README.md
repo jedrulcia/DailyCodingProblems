@@ -138,3 +138,9 @@ Given an iterator with methods next() and hasNext(), create a wrapper iterator, 
 
 CodingProblem45:
 Given an array of numbers and an index i, return the index of the nearest larger number of the number at index i, where distance is measured in array indices.
+
+CodingProblem46:
+Given the head of a singly linked list, swap every two nodes and return its head.
+
+CodingProblem47:
+Given a binary tree where all nodes are either 0 or 1, prune the tree so that subtrees containing all 0s are removed.
