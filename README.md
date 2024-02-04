@@ -144,3 +144,6 @@ Given the head of a singly linked list, swap every two nodes and return its head
 
 CodingProblem47:
 Given a binary tree where all nodes are either 0 or 1, prune the tree so that subtrees containing all 0s are removed.
+
+CodingProblem48:
+Given a list of numbers L, implement a method sum(i, j) which returns the sum from the sublist L[i:j] (including i, excluding j).
