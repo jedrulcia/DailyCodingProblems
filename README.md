@@ -150,3 +150,6 @@ Given a list of numbers L, implement a method sum(i, j) which returns the sum fr
 
 CodingProblem49:
 Given a 2-D matrix representing an image, a location of a pixel in the screen and a color C, replace the color of the given pixel and all adjacent same colored pixels with C.
+
+CodingProblem50:
+You are given n numbers as well as n probabilities that sum up to 1. Write a function to generate one of the numbers with its corresponding probability.
