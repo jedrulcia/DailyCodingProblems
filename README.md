@@ -155,4 +155,7 @@ CodingProblem50:
 You are given n numbers as well as n probabilities that sum up to 1. Write a function to generate one of the numbers with its corresponding probability.
 
 CodingProblem51:
-Given a positive integer n, find the smallest number of squared integers which sum to n.	
+Given a positive integer n, find the smallest number of squared integers which sum to n.
+
+CodingProblem52:
+Given a string, determine whether any permutation of it is a palindrome.	
