@@ -163,3 +163,6 @@ Given a string, determine whether any permutation of it is a palindrome.
 CodingProblem53:
 You are given an N by M matrix of 0s and 1s. Starting from the top left corner, how many ways are there to reach the bottom right corner?
 You can only move right and down. 0 represents an empty space while 1 represents a wall you cannot walk through.	
+
+CodingProblem54:
+Given a string, return the first recurring character in it, or null if there is no recurring character.
