@@ -166,3 +166,6 @@ You can only move right and down. 0 represents an empty space while 1 represents
 
 CodingProblem54:
 Given a string, return the first recurring character in it, or null if there is no recurring character.
+
+CodingProblem55:
+Given an array of integers, return a new array where each element in the new array is the number of smaller elements to the right of that element in the original input array.
