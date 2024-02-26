@@ -169,3 +169,9 @@ Given a string, return the first recurring character in it, or null if there is 
 
 CodingProblem55:
 Given an array of integers, return a new array where each element in the new array is the number of smaller elements to the right of that element in the original input array.
+
+CodingProblem56:
+Given an array of integers, return a new array where each element in the new array is the number of smaller elements to the right of that element in the original input array.
+
+CodingProblem57:
+Given an N by N matrix, rotate it by 90 degrees clockwise.
