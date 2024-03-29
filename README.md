@@ -181,3 +181,6 @@ Alice wants to join her school's Probability Student Club. Membership dues are c
 
 CodingProblem59:
 Given n numbers, find the greatest common denominator between them.
+
+CodingProblem60:
+Write a program that checks whether an integer is a palindrome. For example, 121 is a palindrome, as well as 888. 678 is not a palindrome. Do not convert the integer into a string.
