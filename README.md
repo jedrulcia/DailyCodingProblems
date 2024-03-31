@@ -184,3 +184,6 @@ Given n numbers, find the greatest common denominator between them.
 
 CodingProblem60:
 Write a program that checks whether an integer is a palindrome. For example, 121 is a palindrome, as well as 888. 678 is not a palindrome. Do not convert the integer into a string.
+
+CodingProblem61:
+Given a complete binary tree, count the number of nodes in faster than O(n) time. Recall that a complete binary tree has every level filled except the last, and the nodes in the last level are filled starting from the left.
