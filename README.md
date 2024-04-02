@@ -187,3 +187,6 @@ Write a program that checks whether an integer is a palindrome. For example, 121
 
 CodingProblem61:
 Given a complete binary tree, count the number of nodes in faster than O(n) time. Recall that a complete binary tree has every level filled except the last, and the nodes in the last level are filled starting from the left.
+
+CodingProblem62:
+A permutation can be specified by an array P, where P[i] represents the location of the element at i in the permutation
