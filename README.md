@@ -190,3 +190,6 @@ Given a complete binary tree, count the number of nodes in faster than O(n) time
 
 CodingProblem62:
 A permutation can be specified by an array P, where P[i] represents the location of the element at i in the permutation
+
+CodingProblem63:
+Given a string and a pattern, find the starting indices of all occurrences of the pattern in the string.
