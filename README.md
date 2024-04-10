@@ -193,3 +193,6 @@ A permutation can be specified by an array P, where P[i] represents the location
 
 CodingProblem63:
 Given a string and a pattern, find the starting indices of all occurrences of the pattern in the string.
+
+CodingProblem64:
+Given an integer n, return the length of the longest consecutive run of 1s in its binary representation.
