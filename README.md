@@ -196,3 +196,6 @@ Given a string and a pattern, find the starting indices of all occurrences of th
 
 CodingProblem64:
 Given an integer n, return the length of the longest consecutive run of 1s in its binary representation.
+
+CodingProblem65:
+Given a sorted array, find the smallest positive integer that is not the sum of a subset of the array. Do this in O(N) time.
