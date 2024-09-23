@@ -199,3 +199,6 @@ Given an integer n, return the length of the longest consecutive run of 1s in it
 
 CodingProblem65:
 Given a sorted array, find the smallest positive integer that is not the sum of a subset of the array. Do this in O(N) time.
+
+CodingProblem66:
+Given an array of integers, return indices of the two numbers such that they add up to a specific target.
